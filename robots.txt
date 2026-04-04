@@ -1,5 +1,3 @@
 User-agent: *
-Allow: /
-Disallow: /tags/
-Disallow: /topics/
+Disallow:
 Sitemap: https://www.pornzog.io/sitemap.xml
